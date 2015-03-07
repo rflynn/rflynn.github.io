@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<header>
+<h1 style="margin-top:0"><a href="{{ page.url }}">{{ page.title }}</a></h1>
+<div style="float:right; margin:1em; margin-top:3px">
+  <div id="post-date" style="margin:10px">{{ page.date | date_to_string }}</div>
+</div>
+</header>
+
+<article>
+  {{ content }}
+</article>

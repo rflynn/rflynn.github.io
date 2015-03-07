@@ -1,0 +1,146 @@
+body, td, div, input, textarea { 
+  background-color: #fff;
+  font-family: 'Helvetica Neue', Helvetica, Arial, FreeSans, sans-serif;
+  font-size: 100%;
+}
+
+article {
+  line-height:1.4em;
+}
+
+dfn {
+  font-weight: bold;
+  font-style: italic;
+}
+
+td { padding:0.35em }
+div.list > h3 { margin-bottom: 0.1em }
+
+table {
+}
+
+table.border {
+  border-collapse: collapse;
+	empty-cells: hide;
+}
+
+table.border th,
+table.border td
+{
+  border: 1px solid #ccc;
+}
+
+table.border-dark th,
+table.border-dark td
+{
+  border: 1px solid #333;
+}
+
+table.border-light th,
+table.border-light td
+{
+  border: 1px solid #fff;
+}
+
+table.borderrows {
+	border-collapse: collapse;
+	empty-cells: hide;
+}
+
+table.borderrows tr {
+  border: 1px solid #ccc;
+}
+
+table.borderrows td {
+  border: 0px solid #ccc;
+}
+
+td, th {
+	padding: 0.75em;
+}
+
+code, .code {
+    font-family: "Liberation Mono", Courier New, Courier, sans-serif;
+	color: Green;
+}
+
+.nw { white-space:nowrap }
+.r { text-align: right }
+.sm { font-size:smaller }
+
+.error, .bad {
+	color: Red;
+	font-weight: bold;
+}
+
+td.layout {
+  padding: 2px;
+  padding-right:0.5em;
+}
+
+td.error, td.bad {
+  background-color: #fee;
+  font-weight: bold;
+}
+
+.ok, .good {
+	color: Green;
+	font-weight: bold;
+}
+
+td.ok, td.good {
+  background-color: #efe;
+  font-weight: bold;
+}
+
+.head-line {
+  border-bottom: 1px solid #999;
+}
+
+#header > div {
+	margin-bottom: 1em;
+}
+
+#projects > div {
+	margin-left:10px;
+}
+
+#content {
+	min-width: 10em;
+	max-width: 50em;
+}
+
+#post-date {
+	font-style: italic;
+	font-weight: 100;
+	color: #666;
+}
+
+#post {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+#post-body {
+	margin-top: 1em;
+}
+
+blockquote.quote {
+  font-size: larger;
+  padding: 1em;
+  max-width: 70%;
+  margin: auto;
+  border:1px solid #eec;
+  background-color: #ffe;
+}
+
+.quote-attribute {
+  margin-top: 1em;
+  text-align: right;
+}
+
+.date {
+  font-style: italic;
+  color: #666;
+  font-size: smaller;
+}
