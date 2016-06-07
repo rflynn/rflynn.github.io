@@ -59,11 +59,6 @@ td, th {
 	padding: 0.75em;
 }
 
-code, .code {
-    font-family: "Liberation Mono", Courier New, Courier, sans-serif;
-	color: Green;
-}
-
 .nw { white-space:nowrap }
 .r { text-align: right }
 .sm { font-size:smaller }

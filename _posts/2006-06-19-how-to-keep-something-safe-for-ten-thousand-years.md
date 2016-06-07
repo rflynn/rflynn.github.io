@@ -48,11 +48,13 @@ plenty of time to spread far and wide by the time we learned to read
 hieroglyphics and discovered the existence (and dangers) of radiation<sup>[12]</sup>.
 <p>
 <h3>Conclusions</h3>
-<ol type=1>
+
+<ol>
 	<li>Every site that has ever been discovered has been explored.
 	<li>No warning has ever prevented an excavation.
 	<li>Therefore in order to prevent excavation a site must never be found.
 </ol>
+
 <p>
 The logical conclusion is <b>NOT</b> to model a repository of radioactive waste after the <i>known</i> ancient sites that have withstood the test of time. The vast majority of these sites have been plundered long before modern discovery, and many of the oldest sites are <a href="http://en.wikipedia.org/wiki/Theories_about_Stonehenge">very poorly understood at even the most fundamental levels</a>.
 <p>
