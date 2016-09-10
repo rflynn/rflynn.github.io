@@ -1,0 +1,14 @@
+---
+layout: default
+title: Archives
+---
+
+<ul class="archive" style="list-style:none; padding-left: 0">
+
+  {% for post in site.archive %}
+<li>
+  <span class="date">{{ post.date | date: "%Y"}}</span>
+  <b><a href="{{ post.date | date: '%Y' }}">{{ post.date | date: '%Y' }}</a></b>
+{% endfor %}
+
+</ul>
