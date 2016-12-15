@@ -8,7 +8,7 @@ summary: Communication doesn’t scale well, so in order to broadcast status inf
 Our [CI](https://en.wikipedia.org/wiki/Continuous_integration)/[CD](https://en.wikipedia.org/wiki/Continuous_delivery) pipeline relies heavily on [Github](https://github.com/), [among](https://jenkins-ci.org/) [other](https://www.docker.com/) [things](http://aws.amazon.com/).
 
 
-We've got proper monitoring using [New Relic](https://newrelic.com/), [AWS Cloudwatch](https://aws.amazon.com/cloudwatch/) and [Pingdom](https://www.pingdom.com/) and alerting via a [PagerDuty](https://www.pagerduty.com/) and [Slack](https://slack.com/) and all that.
+We've got proper monitoring using [New Relic](https://newrelic.com/), [AWS Cloudwatch](https://aws.amazon.com/cloudwatch/) and [Pingdom](https://www.pingdom.com/) and alerting via [PagerDuty](https://www.pagerduty.com/) and [Slack](https://slack.com/) and all that.
 
 
 But I decided to go one step further and build an [information radiator](https://www.atlassian.com/wallboards/information-radiators.jsp):
