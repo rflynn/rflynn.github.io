@@ -6,7 +6,7 @@ summary: [Usain Bolt](https://en.wikipedia.org/wiki/Usain_Bolt) is retiring afte
 ---
 
 
-[Usain Bolt](https://en.wikipedia.org/wiki/Usain_Bolt) is retiring after 10 years in the spotlight, my own Engineering org's sprints have been running for a year -- and we're just getting started.
+[Usain Bolt](https://en.wikipedia.org/wiki/Usain_Bolt) is retiring after 10 years in the spotlight, my own Engineering org's sprints have been running for a year... and we're just getting started.
 
 ## Result Summary
 
