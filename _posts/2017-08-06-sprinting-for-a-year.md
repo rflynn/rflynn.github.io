@@ -2,7 +2,7 @@
 layout: post
 title: "Sprinting for a Year"
 date: 2017-08-06
-summary: [Usain Bolt](https://en.wikipedia.org/wiki/Usain_Bolt) is retiring after 10 years in the spotlight, my own Engineering org's sprints have been running for a year.
+summary: github broken?
 ---
 
 
