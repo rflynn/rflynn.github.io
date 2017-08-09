@@ -16,18 +16,16 @@ After 24 iterations we've gone from one big flatline to multiple independent bur
 | ![Start](/i/sprint-for-a-year-2017/start.png) | ![Today](/i/sprint-for-a-year-2017/today.png) |
 
 
-In-between was a *lot* of work -- advocacy, lobbying, lots of hiring and some firing,
-splitting of teams and boards, the birth and death of projects, calendar refactoring,
-debate and of course reflection.
+## Challenges
 
-We still aren't "done" yet -- in fact these burndowns by both teams were both a long time coming
-but also the first time both teams got to zero simultaneously.
-Each team had done it independently but never at the same time.
+1. Despite our progress, Scrum/Sprint hasn't really taken root culturally. The clearest evidence of this is that when Engineering directors go on PTO the burndown flatlines. Despite all the results and advocacy and retrospectives, etc. most folks are at best ambivalent to the process and haven't internalized it or think in terms of it. I'm not sure whether it's common for sprint to hinge on an internal champion or 2 but despite all this work what we have is entirely fragile.
+2. Scrum/JIRA will not solve prioritization and planning problems. Iterative development and delivery by Engineering will not necessarily translate to product planning for [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product) + iteration.
+3. Scrum will send very clear signals if you are receptive to them, but not everyone will be. I've had very smart, open-minded Engineering personnel vehemently defend bad behavior out of habit or self interest.
+4. Some people are either incapable or unwilling to take 30 seconds to write stories down. The best solution is to choose not to do work not represented in a story, but C-suite and VP-level will cheat and get away with it.
+5. JIRA's output is a limiting factor -- I would kill for better views, reports and visualizations.
 
 
-## Takeaways
-
-### What has worked
+## Successes
 
 1. True iterative development of both product and the sprint process itself really does work -- but it is scary to "let it ride" and requires attention, and no matter how well it works some people will not get it. Work hard and deliver and let the results speak for themself.
 2. There was initial trepidation around teams scaling back their commitments to match their established velocity -- there was momentum around drastic overcommitment even though it was widely acknowledged that it did not work.
@@ -38,14 +36,6 @@ Each team had done it independently but never at the same time.
 7. Fast, automated unit testing on key projects is worth the investment non-trivial, dedicated resources.
 8. Engineers use JIRA somewhat grudgingly, but with some help and reminders it mostly works.
 9. Entirely remote Scrum can work.
-
-
-### Challenges
-
-1. Scrum/JIRA will not solve prioritization and planning problems. Iterative development and delivery by Engineering will not necessarily translate to product planning for [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product) + iteration.
-2. Scrum will send very clear signals if you are receptive to them, but not everyone will be. I've had very smart, open-minded Engineering personnel vehemently defend bad behavior out of habit or self interest. Don't try to "win" these arguments, just stick to the numbers and be patient.
-3. Some people are either incapable or unwilling to take 30 seconds to write stories down. The best solution is to choose not to do work not represented in a story, but C-suite and VP-level will cheat and get away with it.
-4. JIRA's output is a limiting factor -- I would kill for better views, reports and visualizations.
 
 
 ## By the numbers
