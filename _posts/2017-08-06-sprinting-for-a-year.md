@@ -5,7 +5,7 @@ date: 2017-08-06
 ---
 
 
-History's greatest sprinter [Usain Bolt](https://en.wikipedia.org/wiki/Usain_Bolt) is [retiring after 10 years](https://www.si.com/track-and-field/2017/08/03/usain-bolt-retirement-world-championships-olympics-jamaica). My Engineering team has been [sprint](https://en.wikipedia.org/wiki/Scrum_(software_development))ing for a year and we're getting pretty good at it too. Here's what we've learned.
+History's greatest sprinter [Usain Bolt](https://en.wikipedia.org/wiki/Usain_Bolt) is [retiring after 10 years](https://www.si.com/track-and-field/2017/08/03/usain-bolt-retirement-world-championships-olympics-jamaica). My Engineering team has been [sprint](https://en.wikipedia.org/wiki/Scrum_(software_development))ing for a year -- here's what we've learned.
 
 
 After 24 iterations we've gone from one big flatline to multiple independent burndowns:
@@ -14,6 +14,11 @@ After 24 iterations we've gone from one big flatline to multiple independent bur
 | Aug 2016                       | Aug 2017                               |
 |--------------------------------|----------------------------------------|
 | ![Start](/i/sprint-for-a-year-2017/start.png) | ![Today](/i/sprint-for-a-year-2017/today.png) |
+
+
+
+Here's the full year:<br/>
+<a href="/vis/sprinting-for-a-year/tech-sprint.png"><img style="border:1px solid blue; cursor:zoom-in" height="" width="800" title="Click for fullsize image" alt="" src="/vis/sprinting-for-a-year/tech-sprint-800.png"></a>
 
 
 ## Challenges
