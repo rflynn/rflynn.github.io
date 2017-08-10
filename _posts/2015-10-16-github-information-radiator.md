@@ -11,7 +11,7 @@ Our [CI](https://en.wikipedia.org/wiki/Continuous_integration)/[CD](https://en.w
 We've got proper monitoring using [New Relic](https://newrelic.com/), [AWS Cloudwatch](https://aws.amazon.com/cloudwatch/) and [Pingdom](https://www.pingdom.com/) and alerting via [PagerDuty](https://www.pagerduty.com/) and [Slack](https://slack.com/) and all that.
 
 
-But I decided to go one step further and build an [information radiator](https://www.atlassian.com/wallboards/information-radiators.jsp):
+But I decided to go one step further and build an [information radiator](https://web.archive.org/web/20160316104029/https://www.atlassian.com/wallboards/information-radiators.jsp) that changes colors based on [Github's status](https://status.github.com/):
 
 
 ![Github Information Radiator](/i/monitoring-github/monitoring-github-256.gif)

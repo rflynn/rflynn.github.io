@@ -8,7 +8,7 @@ date: 2017-08-06
 History's greatest sprinter [Usain Bolt](https://en.wikipedia.org/wiki/Usain_Bolt) is [retiring after 10 years](https://www.si.com/track-and-field/2017/08/03/usain-bolt-retirement-world-championships-olympics-jamaica). My Engineering team has been [sprint](https://en.wikipedia.org/wiki/Scrum_(software_development))ing for a year -- here's what we've learned.
 
 
-After 24 iterations we've gone from one big flatline to multiple independent burndowns:
+After 24 iterations we've gone from one big flatline in 2016 to multiple independent burndowns in 2017:
 
 
 | Aug 2016                       | Aug 2017                               |
@@ -23,10 +23,10 @@ Here's the full year:<br/>
 
 ## Challenges
 
-1. Despite our progress, Scrum/Sprint hasn't really taken root culturally. The clearest evidence of this is that when Engineering directors go on PTO the burndown flatlines. Despite all the results and advocacy and retrospectives, etc. most folks are at best ambivalent to the process and haven't internalized it or think in terms of it. I'm not sure whether it's common for sprint to hinge on an internal champion or 2 but despite all this work what we have is entirely fragile.
+1. Despite our progress, Scrum/Sprint hasn't really taken root culturally. The clearest evidence of this is that when Engineering directors go on PTO the burndown flatlines. Most folks are at best ambivalent about the process and haven't internalized it. I'm not sure whether it's common for sprint to hinge on an internal champion or 2 but despite all this work what we have seems frustratingly fragile.
 2. Scrum/JIRA will not solve prioritization and planning problems. Iterative development and delivery by Engineering will not necessarily translate to product planning for [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product) + iteration.
-3. Scrum will send very clear signals if you are receptive to them, but not everyone will be. I've had very smart, open-minded Engineering personnel vehemently defend bad behavior out of habit or self interest.
-4. Some people are either incapable or unwilling to take 30 seconds to write stories down. The best solution is to choose not to do work not represented in a story, but C-suite and VP-level will cheat and get away with it.
+3. Scrum will send very clear signals about what works and what doesn't and where to focus your energy next if you are receptive to them, but not everyone will be. I've had very smart, open-minded Engineering personnel vehemently defend bad behavior out of habit or self interest.
+4. Some people are unwilling to take 30 seconds to write stories down. The best solution is to choose not to do work not represented in a story, but C-suite and VP-level will cheat and get away with it.
 5. JIRA's output is a limiting factor -- I would kill for better views, reports and visualizations.
 
 
