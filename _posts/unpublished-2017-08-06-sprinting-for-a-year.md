@@ -25,9 +25,9 @@ Here's the full year:<br/>
 
 |            | Aug 2016                       | Aug 2017                               |
 |------------|--------------------------------|----------------------------------------|
-| Commitment | 200                            | 130                                    |
-| Velocity   | 10                             | 130                                    |
-| Rollover   | 190                            | 0                                      |
+| Commitment | 200 points                     | 130 points                             |
+| Velocity   | 10 points                      | 130 points                             |
+| Rollover   | 190 points                     | 0 points                               |
 | Engineers  | 5                              | 13                                     |
 | Backlogs   | 1 big one across many teams    | 1 per team                             |
 | Standups   | none                           | 1 per team @ 10AM                      |
