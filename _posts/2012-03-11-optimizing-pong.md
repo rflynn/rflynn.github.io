@@ -19,8 +19,8 @@ table.cols { width:90%; margin:auto; }
 td.colright { width:240px; text-align:center }
 </style>
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.0/jquery.js"></script>
-<script src="//rawgit.com/rflynn/jquery-pong/master/jquery.pong.js"></script>
-<script type="text/javascript" src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script src="https://raw.githubusercontent.com/rflynn/jquery-pong/master/jquery.pong.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 <script>!window.MathJax && document.write('<script type="text/javascript" src="//d3eoax9i5htok0.cloudfront.net/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"><\/script>');</script>
 
 
