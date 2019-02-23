@@ -17,8 +17,8 @@ After 24 iterations we've gone from one big flatline in 2016 to multiple indepen
 
 
 
-Here's the full year:<br/>
-<a href="/vis/sprinting-for-a-year/tech-sprint.png"><img style="border:1px solid blue; cursor:zoom-in" height="" width="800" title="Click for fullsize image" alt="" src="/vis/sprinting-for-a-year/tech-sprint-800.png"></a>
+It's been quite a journey. Here's the full year:<br/>
+<img height="1485" width="11454" title="" alt="" src="/vis/sprinting-for-a-year/tech-sprint.png">
 
 
 ## By the numbers
