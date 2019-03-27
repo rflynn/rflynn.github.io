@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Making the Most of Moviepass"
+title: "What to watch?"
 date: 2018-09-15
 ---
 
@@ -18,5 +18,5 @@ Alas, with Moviepass [switching from 1-per-day to 3-per-month](https://www.cnet.
 
 ## Further Reading
 
-1. [*Moviepass* topic on news.google.com](https://news.google.com/topics/CAAqJAgKIh5DQkFTRUFvS0wyMHZNSEptYURKamJoSUNaVzRvQUFQAQ?hl=en-US&gl=US&ceid=US%3Aen)
-2. [*The Paradox of Choice*](https://en.wikipedia.org/wiki/The_Paradox_of_Choice)
+1. [*The Paradox of Choice*](https://en.wikipedia.org/wiki/The_Paradox_of_Choice)
+2. [*Moviepass* topic on news.google.com](https://news.google.com/topics/CAAqJAgKIh5DQkFTRUFvS0wyMHZNSEptYURKamJoSUNaVzRvQUFQAQ?hl=en-US&gl=US&ceid=US%3Aen)
