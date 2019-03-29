@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What to watch?"
+title: "Paradox of Choice: What to Watch?"
 date: 2018-09-15
 ---
 
