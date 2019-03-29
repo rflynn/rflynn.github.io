@@ -10,7 +10,7 @@ The offering naturally lead to a number of questions: [What should I watch and w
 
 Given this [paradox of choice](https://en.wikipedia.org/wiki/The_Paradox_of_Choice) I ended up building a "[TV guide](https://www.tvguide.com/listings/) for my local movie theaters" a daily-generated custom report listing the cheapest showing of each movie that day, taking into account the Moviepass discount, transportation cost and travel time:
 
-![report](/i/making-the-most-of-moviepass-2018/report.png)
+<img src="/i/making-the-most-of-moviepass-2018/report.png" width="940" height="276">
 
 The report is a custom synthesis of data across a number of sources -- [Fandango](https://www.fandango.com/) for movie listings, [Moviepass](https://www.moviepass.com/movies) for supported films by day, [RottenTomatoes](https://www.rottentomatoes.com/) for critic reviews, [Cinemascore](https://www.cinemascore.com/) for opening weekend audience exit polling, [Metacritic](https://www.metacritic.com/) for critic and audience reviews, Festival and award and "best of" lists for cultural indicators from a number of sources, [BoxOfficeMojo](https://www.boxofficemojo.com/) for box office stats from and costs from my own _theatrecost_ spreadsheet. The report also outputs a number of factors which are currently hardcoded into formulae; eventually these could be used for machine learning to derive better algorithms.
 
