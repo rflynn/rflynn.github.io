@@ -19,4 +19,5 @@ Alas, with Moviepass [switching from 1-per-day to 3-per-month](https://www.cnet.
 ## Further Reading
 
 1. [*The Paradox of Choice*](https://en.wikipedia.org/wiki/The_Paradox_of_Choice)
-2. [*Moviepass* topic on news.google.com](https://news.google.com/topics/CAAqJAgKIh5DQkFTRUFvS0wyMHZNSEptYURKamJoSUNaVzRvQUFQAQ?hl=en-US&gl=US&ceid=US%3Aen)
+2. [how do you pick movies to watch?](https://old.reddit.com/r/movies/comments/b23kid/how_do_you_pick_movies_to_watch/)
+3. [*Moviepass* topic on news.google.com](https://news.google.com/topics/CAAqJAgKIh5DQkFTRUFvS0wyMHZNSEptYURKamJoSUNaVzRvQUFQAQ?hl=en-US&gl=US&ceid=US%3Aen)
